@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/morizoo/Projects/ICP_Projects/rust_counter/target/wasm32-unknown-unknown/release/build/typenum-f2cbf6cb944f2761/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/morizoo/Projects/ICP_Projects/rust_counter/target/wasm32-unknown-unknown/release/build/typenum-f2cbf6cb944f2761/out/op.rs
